@@ -82,12 +82,6 @@
         }
     }
 }
-textarea[label="Custom CSS"] {
-    font-family: monospace;
-    white-space: pre;
-    height: 50vh;
-    -webkit-text-security: none !important;
-}
 .mx_AccessibleButton_hasKind:not([aria-disabled=true]) {
     transition: box-shadow ease, transform ease-in-out;
     transition-duration: var(--transition-duration);
